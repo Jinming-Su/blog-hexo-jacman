@@ -3,16 +3,19 @@ title: About Me
 date: 2019-01-11 23:28:14
 ---
 **<font size=6>Jinming Su 苏金明</font>**
-# Education  
+# Introduction  
 I am pursuing my Master degree at <u>[CVTEAM Lab](http:cvteam.net)</u>, School of Computer Science and Engineering in Beihang University (BUAA), Beijing, China, from 2017. My supervisor is <u>[Prof. Jia Li](http://cvteam.net/members/lijia/upload/index.html)</u>. I received my B.Eng degree from Department of Compute Science at Northeastern University (NEU), Shenyang, China, in 2017.
 
-My research interests include saliency detection and scene understanding.  
+My research interests include **saliency detection** and **scene understanding**.  
 
 # Experiences
 * Research Assistant, Peng Cheng Laboratory (PCL), Shenzhen, China.  
   Dec. 2019 ~ Now.
+
 * Software Developer, ACM-ICPC School Team of NEU.  
   Oct. 2015 ~ Oct. 2016.
+  During this time, I assist to complete the basic development of the program online judge platform of NEU <u>[NEUOJ](https://oj.neu.edu.cn/)</u>, which is used for the training of ACM-ICPC School Team and the teaching of computer courses. 
+
 * Member of ACM-ICPC School Team of NEU.
   Dec. 2013 ~ Sep. 2015.
 
@@ -20,11 +23,12 @@ My research interests include saliency detection and scene understanding.
 1. Selectivity or Invariance: Boundary-aware Salient Object Detection
    <i>**Jinming Su**, Jia Li, Changqun Xia and Yonghong Tian</i>
    arXiv:1812.10066, 2018. [<u>[arXiv]</u>](https://arxiv.org/abs/1812.10066)
+
 2. Learning a saliency evaluation metric using crowdsourced perceptual judgments
    <i>Changqun Xia, Jia Li, **Jinming Su** and Ali Borji</i>
    arXiv:1806.10257, 2018. [<u>[arXiv]</u>](https://arxiv.org/abs/1806.10257)
 
-# Honors & Awards
+# Selected Honors & Awards
 1. Outstanding Graduate Student of BUAA in 2018, Jan. 2019.
 2. Merit Student of BUAA for the 2017 ~ 2018 academic year, Nov. 2018.
 3. First Class Scholarship for Graduate of BUAA (two times), Sep. 2017 and Sep. 2018.  
