@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  About: /about
+  AboutMe: /about
 ## you can create `tags` and `categories` folders in `../source`.  ## And create a `index.md` file in each of them.
 ## set `front-matter`as
 ## layout: tags (or categories)
@@ -62,7 +62,7 @@ author:
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu: sjming     ## e.g. jark  for http://www.zhihu.com/people/jark
-  email: sujinming0125@163.com     ## e.g. imjark@gmail.com
+  email: sujm@buaa.edu.cn    ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github: su526664687    ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
