@@ -24,4 +24,4 @@ From 2013, I always condier about writing and sharing my learning, thinking and 
 2. This blogs will be updated at least once a week.  
 
 # Notice
-* The comment module is based on <u>[disqus](http://www.disque.com)</u>. If you can't see the comment module, some network problems maybe exists in your computer.
+* The comment module is based on <u>[disqus](https://disqus.com/)</u>. If you can't see the comment module, some network problems maybe exists in your computer.
